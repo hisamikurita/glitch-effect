@@ -29,6 +29,7 @@ img {
     justify-content: space-between;
     align-items: center;
     max-width: 1480px;
+    max-height: 730px;
     width: 86%;
     height: 80%;
     margin: 0 auto;
